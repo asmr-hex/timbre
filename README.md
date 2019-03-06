@@ -1,0 +1,2 @@
+# timbre
+🎷🎲🎻statistical timbre synthesizer 🥁🎲🎤
